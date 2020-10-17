@@ -1,7 +1,7 @@
 Data Science Course Capstone Project
 ========================================================
-author: Diane Wenke
-date: June 2, 2018
+author: Bhaskar
+date: October 17, 2020
 autosize: true
 
 Word Prediction App Description
@@ -14,7 +14,7 @@ Use our new app...
 - App uses a subset of data from the three data sources (blogs, twitter & news)
 - App also uses the technology of Swiftkey
 
-Try it now...select it [here](https://dwenke.shinyapps.io/Final_Project_2018_06_03/)
+Try it now...select it [here](https://bhaskar_5137.shinyapps.io/Final_Project_2020-10-17/)
 
 How to Use the Word Prediction App
 ========================================================
