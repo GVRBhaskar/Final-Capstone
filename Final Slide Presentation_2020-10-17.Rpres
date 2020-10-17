@@ -38,7 +38,7 @@ Word Prediction Algorithm & Summary
 - If n=3 is not found, then the app continues to check (n=2)
 - If n=2 is not found, then the app returns "No Match Found"
 
-- Code is available on [GitHub](https://github.com/DWenke/Data-Science-Capstone-Final-Project/)
+- Code is available on [GitHub](https://github.com/GVRBhaskar/Final-Capstone/)
 - Further work can include expanding both the number of data sources & number of n-grams
 Enjoy the app!
 
